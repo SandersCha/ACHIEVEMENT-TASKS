@@ -24,7 +24,7 @@ while True:
         circlPerimeter = radiUs * 2 * 3.14
         print("The area of the circle is " + str(circleArea) + " square cm","Perimeter of the circle is " + str(circlPerimeter) + " cm",sep="\n")
 
-
+c
     elif num == 2:
         print("Enter width of Rectangle(cm):")
         rectangleWidth = float(input())
